@@ -3,6 +3,40 @@
 ## Overview
 
 This repository presents a reproducible multi-omics workflow integrating **LC-MS-based untargeted metabolomics** and **public transcriptomic datasets** to identify metabolic biomarkers, dysregulated pathways, and potential molecular mechanisms associated with **Triple-Negative Breast Cancer (TNBC)**.
+## Workflow
+
+```
+Clinical Samples
+      │
+      ▼
+Untargeted LC-MS Metabolomics ──────────► Transcriptomics (GEO: counts/
+      │                                    expression + metadata files)
+      ▼                                          │
+Preprocessing & QC                                ▼
+      │                                    Differential Expression
+      ▼                                    Analysis (per dataset)
+Differential Metabolite Analysis                  │
+      │                                          ▼
+      ▼                                    Differentially Expressed
+Candidate Biomarker Identification          Genes (DEGs)
+      │                                          │
+      ├──────────────┐                          ▼
+      ▼              ▼                    Common DEGs (overlap across
+ROC Analysis   Pathway Enrichment          all datasets)
+      │              │                          │
+      └──────┬───────┴──────────────────────────┘
+             ▼
+     Multi-Omics Integration
+     (Metabolite–Gene Pathway Mapping via KEGG)
+             │
+             ▼
+     Key Genes & Differential Metabolites
+     (compound-gene network)
+             │
+             ▼
+     Biological Interpretation (RESULTS.md)
+```
+
 
 The workflow combines differential metabolite analysis with differential gene expression analysis, followed by pathway enrichment and metabolite–gene integration to uncover biologically relevant metabolic alterations.
 
