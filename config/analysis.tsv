@@ -1,0 +1,7 @@
+parameter	value
+deg_adjust_method	BH
+deg_adjusted_p	0.05
+deg_absolute_log2fc	2
+heatmap_genes	50
+paper_accessions	GSE65194,GSE45827,GSE36295
+corrected_accessions	GSE65194,GSE36295

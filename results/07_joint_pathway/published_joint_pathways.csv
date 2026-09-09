@@ -1,0 +1,4 @@
+pathway,key_metabolites,key_genes,status
+Tyrosine metabolism,4-Hydroxyphenylacetaldehyde,MAOA;ADH1B;ADH1C;AOC3;TAT,published integration result
+Phenylalanine metabolism,4-Hydroxyphenylacetaldehyde,MAOA;AOC3;TAT,published integration result
+Glycolysis/gluconeogenesis,Oxaloacetic acid,PCK1;ADH1B;ADH1C,published integration result

@@ -1,0 +1,9 @@
+component,type,direction_in_published_study,role
+4-Hydroxyphenylacetaldehyde,metabolite,up,key integrated metabolite
+Oxaloacetic acid,metabolite,up,key integrated metabolite
+MAOA,gene,down,key integrated gene
+ADH1B,gene,down,key integrated gene
+ADH1C,gene,down,key integrated gene
+AOC3,gene,down,key integrated gene
+TAT,gene,down,key integrated gene
+PCK1,gene,down,key integrated gene

@@ -1,0 +1,7 @@
+gene,validation_layers,survival_result
+MAOA,mRNA;protein;IHC;western blot,not highlighted for overall survival
+ADH1B,mRNA;protein;IHC;western blot,not highlighted for overall survival
+ADH1C,mRNA;protein;IHC;western blot,not highlighted for overall survival
+AOC3,mRNA;protein;IHC;western blot,associated with overall survival
+TAT,mRNA;protein;IHC;western blot,not highlighted for overall survival
+PCK1,mRNA;protein;IHC;western blot,associated with overall survival

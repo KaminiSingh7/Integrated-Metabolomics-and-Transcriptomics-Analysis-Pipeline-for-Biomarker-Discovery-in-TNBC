@@ -1,0 +1,8 @@
+metabolite,role,discovery_auc,sensitivity_percent,specificity_percent,validation_auc
+7-Methylguanine,leading diagnostic biomarker,0.992,100,95.2,0.971
+Pipecolic acid,diagnostic candidate,NA,NA,NA,NA
+L-Methionine,diagnostic candidate,NA,NA,NA,NA
+Oxoglutaric acid,diagnostic candidate,NA,NA,NA,NA
+Bilirubin,diagnostic candidate,NA,NA,NA,NA
+Thymidine,diagnostic candidate,NA,NA,NA,NA
+4-Hydroxyphenylacetaldehyde,diagnostic candidate and integrated metabolite,NA,NA,NA,NA

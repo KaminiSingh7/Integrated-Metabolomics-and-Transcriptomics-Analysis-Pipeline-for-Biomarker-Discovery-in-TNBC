@@ -1,0 +1,23 @@
+number,metabolite,rt_seconds,mz,formula,kegg_id,adduct,fold_change,p_value,vip,direction
+1,Isonicotinic acid,600.2,122.0217,C6H5NO2,C07446,[M-H]-,0.54,0.036,1.464,down
+2,Ergothioneine,102.7,230.096,C9H16N3O2S,C05570,[M+H]+,0.54,0.006,1.546,down
+3,Glutaric acid,86.1,131.0329,C5H8O4,C00489,[M-H]-,0.55,0.005,1.555,down
+4,Urocanic acid,139.1,137.0345,C6H6N2O2,C00785,[M-H]-,0.58,0.003,1.730,down
+5,Acetylcholine chloride,33,180.9729,C7H16NO2.Cl,C08201,[M-H]-,0.58,0.005,1.767,down
+6,"2,3-Butanediol",152.6,154.9901,C4H10O2S2,C00265,[M+H]+,0.59,0.011,1.036,down
+7,5'-Methylthioadenosine,897.2,297.2429,C11H15N5O3S,C00170,[M-H]-,0.60,0.024,1.705,down
+8,N-Acetyl-D-tryptophan,397.1,246.1238,C13H14N2O3,C03137,[M+H]+,0.61,0.001,1.715,down
+9,9(S)-HPOT,855.1,293.2108,C18H30O4,C16321,[M+H]+,0.65,0.006,1.429,down
+10,4-Hydroxyphenylacetaldehyde,95.1,136.048,C8H8O2,C03765,[M+H]+,1.50,0.000,1.851,up
+11,7-Methylguanine,139.6,166.0724,C6H7N5O,C02242,[M+H]+,1.53,0.000,2.406,up
+12,Thymidine,539.7,242.1759,C10H14N2O5,C00214,[M-H]-,1.58,0.000,1.987,up
+13,Oxalacetic acid,83.1,130.9993,C4H4O5,C00036,[M-H]-,1.59,0.029,1.572,up
+14,CMP-3-deoxy-D-manno-octulosonate,773,542.1068,C17H26N3O15P,C04121,[M-H]-,1.62,0.006,1.421,up
+15,Oxoglutaric acid,75.8,145.0137,C5H6O5,C00026,[M-H]-,1.66,0.000,2.237,up
+16,Bilirubin,917.5,585.2655,C33H36N4O6,C00486,[M+H]+,1.70,0.000,1.731,up
+17,Thymine,430.5,125.0347,C5H6N2O2,C00178,[M-H]-,1.71,0.047,1.288,up
+18,L-Valine,135.2,118.087,C5H11NO2,C00183,[M+H]+,1.73,0.015,1.018,up
+19,Arachidic acid,917.3,311.2954,C20H40O2,C06425,[M-H]-,1.75,0.003,1.581,up
+20,(S)-4-Hydroxymandelate,245.5,151.0336,C8H8O4,C03198,[M+H]+,1.85,0.007,1.121,up
+21,Pipecolic acid,96.9,129.0654,C6H11NO2,C00408,[M+H]+,2.14,0.000,1.646,up
+22,L-Methionine,137.4,148.0426,C5H11NO2S,C00073,[M-H]-,2.49,0.000,2.285,up

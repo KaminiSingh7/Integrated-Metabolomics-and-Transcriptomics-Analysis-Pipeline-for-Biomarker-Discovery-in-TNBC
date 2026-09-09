@@ -1,0 +1,21 @@
+# Downloaded GEO inputs
+data/transcriptomics/**/*.gz
+data/metadata/GPL*.annot.gz
+
+# Generated R objects
+data/metadata/*_annotation.rds
+results/02_normalization/*.rds
+
+# Large gene-level result tables
+results/03_DEG/*_DEG.csv
+
+# Logs and R session files
+logs/*
+!logs/.gitkeep
+.Rhistory
+.RData
+.Ruserdata
+
+# Local system files
+.DS_Store
+Thumbs.db

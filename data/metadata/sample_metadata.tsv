@@ -1,0 +1,135 @@
+gsm	dataset	platform	group	subject_id	title	source
+GSM1588970	GSE65194	GPL570	TNBC	TUM001	TNBC, TUM001_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588971	GSE65194	GPL570	TNBC	TUM001	TNBC, TUM001_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588974	GSE65194	GPL570	TNBC	TUM003	TNBC, TUM003	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588975	GSE65194	GPL570	TNBC	TUM004	TNBC, TUM004	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588976	GSE65194	GPL570	TNBC	TUM005	TNBC, TUM005	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588977	GSE65194	GPL570	TNBC	TUM006	TNBC, TUM006_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588978	GSE65194	GPL570	TNBC	TUM006	TNBC, TUM006_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588979	GSE65194	GPL570	TNBC	TUM007	TNBC, TUM007	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588980	GSE65194	GPL570	TNBC	TUM008	TNBC, TUM008	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588982	GSE65194	GPL570	TNBC	TUM010	TNBC, TUM010_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588983	GSE65194	GPL570	TNBC	TUM010	TNBC, TUM010_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588984	GSE65194	GPL570	TNBC	TUM011	TNBC, TUM011	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588985	GSE65194	GPL570	TNBC	TUM012	TNBC, TUM012	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588986	GSE65194	GPL570	TNBC	TUM013	TNBC, TUM013_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588987	GSE65194	GPL570	TNBC	TUM013	TNBC, TUM013_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588988	GSE65194	GPL570	TNBC	TUM014	TNBC, TUM014	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588993	GSE65194	GPL570	TNBC	TUM017	TNBC, TUM017_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588994	GSE65194	GPL570	TNBC	TUM017	TNBC, TUM017_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588995	GSE65194	GPL570	TNBC	TUM018	TNBC, TUM018_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1588996	GSE65194	GPL570	TNBC	TUM018	TNBC, TUM018_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589003	GSE65194	GPL570	TNBC	TUM023	TNBC, TUM023	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589004	GSE65194	GPL570	TNBC	TUM024	TNBC, TUM024	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589005	GSE65194	GPL570	TNBC	TUM025	TNBC, TUM025	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589009	GSE65194	GPL570	TNBC	TUM028	TNBC, TUM028_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589010	GSE65194	GPL570	TNBC	TUM028	TNBC, TUM028_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589011	GSE65194	GPL570	TNBC	TUM029	TNBC, TUM029	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589012	GSE65194	GPL570	TNBC	TUM030	TNBC, TUM030	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589014	GSE65194	GPL570	TNBC	TUM032	TNBC, TUM032_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589015	GSE65194	GPL570	TNBC	TUM032	TNBC, TUM032_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589016	GSE65194	GPL570	TNBC	TUM033	TNBC, TUM033	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589017	GSE65194	GPL570	TNBC	TUM034	TNBC, TUM034	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589024	GSE65194	GPL570	TNBC	TUM039	TNBC, TUM039	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589028	GSE65194	GPL570	TNBC	TUM043	TNBC, TUM043_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589029	GSE65194	GPL570	TNBC	TUM043	TNBC, TUM043_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589031	GSE65194	GPL570	TNBC	TUM045	TNBC, TUM045_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589032	GSE65194	GPL570	TNBC	TUM045	TNBC, TUM045_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589035	GSE65194	GPL570	TNBC	TUM048	TNBC, TUM048_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589036	GSE65194	GPL570	TNBC	TUM048	TNBC, TUM048_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589037	GSE65194	GPL570	TNBC	TUM049	TNBC, TUM049	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589038	GSE65194	GPL570	TNBC	TUM050	TNBC, TUM050	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589039	GSE65194	GPL570	TNBC	TUM051	TNBC, TUM051_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589040	GSE65194	GPL570	TNBC	TUM051	TNBC, TUM051_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589041	GSE65194	GPL570	TNBC	TUM052	TNBC, TUM052	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589042	GSE65194	GPL570	TNBC	TUM053	TNBC, TUM053	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589043	GSE65194	GPL570	TNBC	TUM054	TNBC, TUM054	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589045	GSE65194	GPL570	TNBC	TUM056	TNBC, TUM056	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589054	GSE65194	GPL570	TNBC	TUM064	TNBC, TUM064_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589055	GSE65194	GPL570	TNBC	TUM064	TNBC, TUM064_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589056	GSE65194	GPL570	TNBC	TUM065	TNBC, TUM065	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589058	GSE65194	GPL570	TNBC	TUM067	TNBC, TUM067_repA	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589059	GSE65194	GPL570	TNBC	TUM067	TNBC, TUM067_repB	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589060	GSE65194	GPL570	TNBC	TUM068	TNBC, TUM068	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589061	GSE65194	GPL570	TNBC	TUM069	TNBC, TUM069	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589062	GSE65194	GPL570	TNBC	TUM070	TNBC, TUM070	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589063	GSE65194	GPL570	TNBC	TUM071	TNBC, TUM071	Breast tumor sample from IHC defined Triple Negative subgroup
+GSM1589130	GSE65194	GPL570	Normal	HEALTHY, H3	Healthy, H3	Healthy breast sample from mammoplasty surgery
+GSM1589132	GSE65194	GPL570	Normal	HEALTHY, H13	Healthy, H13	Healthy breast sample from mammoplasty surgery
+GSM1589135	GSE65194	GPL570	Normal	HEALTHY, H9	Healthy, H9	Healthy breast sample from mammoplasty surgery
+GSM1589136	GSE65194	GPL570	Normal	HEALTHY, H10	Healthy, H10	Healthy breast sample from mammoplasty surgery
+GSM1589139	GSE65194	GPL570	Normal	HEALTHY, H18	Healthy, H18	Healthy breast sample from mammoplasty surgery
+GSM1589142	GSE65194	GPL570	Normal	HEALTHY, H12	Healthy, H12	Healthy breast sample from mammoplasty surgery
+GSM1589144	GSE65194	GPL570	Normal	HEALTHY, H11	Healthy, H11	Healthy breast sample from mammoplasty surgery
+GSM1589145	GSE65194	GPL570	Normal	HEALTHY, H15	Healthy, H15	Healthy breast sample from mammoplasty surgery
+GSM1589148	GSE65194	GPL570	Normal	HEALTHY, H4	Healthy, H4	Healthy breast sample from mammoplasty surgery
+GSM1589150	GSE65194	GPL570	Normal	HEALTHY, H14	Healthy, H14	Healthy breast sample from mammoplasty surgery
+GSM1589151	GSE65194	GPL570	Normal	HEALTHY, H5	Healthy, H5	Healthy breast sample from mammoplasty surgery
+GSM1116084	GSE45827	GPL570	TNBC	S1	Basal Sample1 rep1	Human Basal Tumor Sample
+GSM1116085	GSE45827	GPL570	TNBC	S2	Basal Sample2 rep1-2	Human Basal Tumor Sample
+GSM1116087	GSE45827	GPL570	TNBC	S4	Basal Sample4 rep1-2	Human Basal Tumor Sample
+GSM1116090	GSE45827	GPL570	TNBC	S7	Basal Sample7 rep1	Human Basal Tumor Sample
+GSM1116091	GSE45827	GPL570	TNBC	S8	Basal Sample8 rep1-2	Human Basal Tumor Sample
+GSM1116092	GSE45827	GPL570	TNBC	S9	Basal Sample9 rep1	Human Basal Tumor Sample
+GSM1116093	GSE45827	GPL570	TNBC	S10	Basal Sample10 rep1-2	Human Basal Tumor Sample
+GSM1116094	GSE45827	GPL570	TNBC	S11	Basal Sample11 rep1	Human Basal Tumor Sample
+GSM1116099	GSE45827	GPL570	TNBC	S16	Basal Sample16 rep1-2	Human Basal Tumor Sample
+GSM1116101	GSE45827	GPL570	TNBC	S18	Basal Sample18 rep1	Human Basal Tumor Sample
+GSM1116102	GSE45827	GPL570	TNBC	S19	Basal Sample19 rep1-2	Human Basal Tumor Sample
+GSM1116106	GSE45827	GPL570	TNBC	S23	Basal Sample23 rep1-2	Human Basal Tumor Sample
+GSM1116108	GSE45827	GPL570	TNBC	S25	Basal Sample25 rep1	Human Basal Tumor Sample
+GSM1116109	GSE45827	GPL570	TNBC	S26	Basal Sample26 rep1	Human Basal Tumor Sample
+GSM1116110	GSE45827	GPL570	TNBC	S27	Basal Sample27 rep1	Human Basal Tumor Sample
+GSM1116111	GSE45827	GPL570	TNBC	S28	Basal Sample28 rep1	Human Basal Tumor Sample
+GSM1116112	GSE45827	GPL570	TNBC	S29	Basal Sample29 rep1-2	Human Basal Tumor Sample
+GSM1116113	GSE45827	GPL570	TNBC	S30	Basal Sample30 rep1	Human Basal Tumor Sample
+GSM1116114	GSE45827	GPL570	TNBC	S31	Basal Sample31 rep1	Human Basal Tumor Sample
+GSM1116115	GSE45827	GPL570	TNBC	S32	Basal Sample32 rep1	Human Basal Tumor Sample
+GSM1116118	GSE45827	GPL570	TNBC	S35	Basal Sample35 rep1-2	Human Basal Tumor Sample
+GSM1116119	GSE45827	GPL570	TNBC	S36	Basal Sample36 rep1-2	Human Basal Tumor Sample
+GSM1116120	GSE45827	GPL570	TNBC	S37	Basal Sample37 rep1-2	Human Basal Tumor Sample
+GSM1116124	GSE45827	GPL570	TNBC	S41	Basal Sample41 rep1	Human Basal Tumor Sample
+GSM1116125	GSE45827	GPL570	TNBC	S42	Basal Sample42 rep1	Human Basal Tumor Sample
+GSM1116128	GSE45827	GPL570	TNBC	S45	Basal Sample45 rep1	Human Basal Tumor Sample
+GSM1116130	GSE45827	GPL570	TNBC	S47	Basal Sample47 rep1	Human Basal Tumor Sample
+GSM1116131	GSE45827	GPL570	TNBC	S48	Basal Sample48 rep1	Human Basal Tumor Sample
+GSM1116135	GSE45827	GPL570	TNBC	S52	Basal Sample52 rep1	Human Basal Tumor Sample
+GSM1116136	GSE45827	GPL570	TNBC	S53	Basal Sample53 rep1	Human Basal Tumor Sample
+GSM1116138	GSE45827	GPL570	TNBC	S55	Basal Sample55 rep1-2	Human Basal Tumor Sample
+GSM1116139	GSE45827	GPL570	TNBC	S56	Basal Sample56 rep1	Human Basal Tumor Sample
+GSM1116142	GSE45827	GPL570	TNBC	S59	Basal Sample59 rep1	Human Basal Tumor Sample
+GSM1116143	GSE45827	GPL570	TNBC	S60	Basal Sample60 rep1-2	Human Basal Tumor Sample
+GSM1116144	GSE45827	GPL570	TNBC	S61	Basal Sample61 rep1	Human Basal Tumor Sample
+GSM1116145	GSE45827	GPL570	TNBC	S62	Basal Sample62 rep1	Human Basal Tumor Sample
+GSM1116146	GSE45827	GPL570	TNBC	S63	Basal Sample63 rep1	Human Basal Tumor Sample
+GSM1116147	GSE45827	GPL570	TNBC	S64	Basal Sample64 rep1	Human Basal Tumor Sample
+GSM1116148	GSE45827	GPL570	TNBC	S65	Basal Sample65 rep1	Human Basal Tumor Sample
+GSM1116149	GSE45827	GPL570	TNBC	S66	Basal Sample66 rep1	Human Basal Tumor Sample
+GSM1116150	GSE45827	GPL570	TNBC	S67	Basal Sample67 rep1-2	Human Basal Tumor Sample
+GSM1116169	GSE45827	GPL570	Normal	S86	Normal Sample86 rep1	Human Normal
+GSM1116170	GSE45827	GPL570	Normal	S87	Normal Sample87 rep1	Human Normal
+GSM1116171	GSE45827	GPL570	Normal	S88	Normal Sample88 rep1	Human Normal
+GSM1116172	GSE45827	GPL570	Normal	S89	Normal Sample89 rep1	Human Normal
+GSM1116173	GSE45827	GPL570	Normal	S90	Normal Sample90 rep1	Human Normal
+GSM1116174	GSE45827	GPL570	Normal	S91	Normal Sample91 rep1	Human Normal
+GSM1116175	GSE45827	GPL570	Normal	S92	Normal Sample92 rep1	Human Normal
+GSM1116176	GSE45827	GPL570	Normal	S93	Normal Sample93 rep1	Human Normal
+GSM1116177	GSE45827	GPL570	Normal	S94	Normal Sample94 rep1	Human Normal
+GSM1116178	GSE45827	GPL570	Normal	S95	Normal Sample95 rep1	Human Normal
+GSM1116179	GSE45827	GPL570	Normal	S96	Normal Sample96 rep1	Human Normal
+GSM886560	GSE36295	GPL6244	Normal	GSM886560	Normal breast CEGMR 2	Normal Breast tissue
+GSM886561	GSE36295	GPL6244	Normal	GSM886561	Normal breast CEGMR 3	Normal Breast tissue
+GSM886562	GSE36295	GPL6244	Normal	GSM886562	Normal breast CEGMR 4	Normal Breast tissue
+GSM886563	GSE36295	GPL6244	Normal	GSM886563	Normal breast CEGMR 5	Normal Breast tissue
+GSM886564	GSE36295	GPL6244	Normal	GSM886564	Normal breast CEGMR 1	Normal Breast tissue
+GSM886568	GSE36295	GPL6244	TNBC	GSM886568	Breast cancer 5	Breast cancer fresh tissue
+GSM886569	GSE36295	GPL6244	TNBC	GSM886569	Breast cancer 6	Breast cancer fresh tissue
+GSM886570	GSE36295	GPL6244	TNBC	GSM886570	Breast cancer 7	Breast cancer fresh tissue
+GSM886574	GSE36295	GPL6244	TNBC	GSM886574	Breast cancer 13	Breast cancer fresh tissue
+GSM886576	GSE36295	GPL6244	TNBC	GSM886576	Breast cancer 15	Breast cancer fresh tissue
+GSM886582	GSE36295	GPL6244	TNBC	GSM886582	Breast cancer 28	Breast cancer fresh tissue
+GSM886583	GSE36295	GPL6244	TNBC	GSM886583	Breast cancer 29	Breast cancer fresh tissue
+GSM886585	GSE36295	GPL6244	TNBC	GSM886585	Breast cancer 31	Breast cancer fresh tissue
+GSM886593	GSE36295	GPL6244	TNBC	GSM886593	Breast cancer 41	Breast cancer fresh tissue
+GSM886602	GSE36295	GPL6244	TNBC	GSM886602	Breast cancer 21	Breast cancer fresh tissue
+GSM886603	GSE36295	GPL6244	TNBC	GSM886603	Breast cancer 22	Breast cancer fresh tissue
